@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoviesListPopular</string>
+    <string name="todo">TODO</string>
+    <string name="release_date">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="zero">0</string>
+    <string name="_0_10">0/10</string>
+    <string name="adult">Adult :</string>
+    <string name="movie">Movie</string>
+    <string name="slace_ten">/10</string>
+    <string name="no_internet_connection">No internet connection</string>
+</resources>
